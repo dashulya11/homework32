@@ -5,7 +5,6 @@ const ulTag = document.querySelector('ul');
 const liTag = document.querySelectorAll('li');
 const allAtributeUl = document.querySelector('ul').getAttributeNames();
 const array = [];
-const array1 = [];
 const myName = 'Dasha';
 
 for (let value of allAtributeUl) {
